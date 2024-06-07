@@ -1,4 +1,4 @@
-CID_675_Athena_Commando_M_TheGoldenSkeleton, 2000
+CID_703_Athena_Commando_M_Cyclone, 2000
 CID_653_Athena_Commando_F_UglySweaterFrozen, 2000
 EID_TacoTimeDance, 800
 na
